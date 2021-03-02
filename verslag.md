@@ -4,12 +4,12 @@
 ---
 
 ## Inleiding
-Lorem ipsum....
+We kregen een opdracht om in een groep een knikkerbaan te maken. Dit moest gebeuren aan de hand van code en het fysiek bouwen van de knikkerbaan. Dit werd door omstandigheden erg lastig.
 
 
 
 ## Idee
-Ons idee was om een knikkerbaan te maken die...
+Ons idee was om een knikkerbaan te maken waar obstakel omhoog en om laag gaan en daardoor elke een andere route creëren, daarna nog een parkour zonder code. Timo was op dit idee gekomen aan de hand van een filmpje en we hebben dit geprobeert met servo's te realiseren. servo's draaien maar 180 graden dus hebben we een constructie gemaakt waarbij het hetzelfde draaide.
 (gebruik gerust plaatjes)
 
 
@@ -29,7 +29,7 @@ Onze opdracht is als volgt gepland:
 
 ## Technische verantwoording
 Ons communicatieprotocol werkt zo:
-
+Wij hebben een Whatsapp groepsapp aangemaakt en hebben daar heel het project lang gebruik van gemaakt.
 
 
 ## Reflectie
