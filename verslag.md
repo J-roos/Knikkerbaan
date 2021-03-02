@@ -48,5 +48,5 @@ Ik kijk terug op...
 #### Timo
 
 #### Rico
-Achteraf gezien ging niet alles zoals gehoopt. Een iets betere planning zou wel geholpen hebben.
+Achteraf gezien ging niet alles zoals gehoopt. Een iets betere planning zou wel geholpen hebben. Ook meer tijd voor de bouw van de knikerbaan zou geholpen hebben. Uiteindelijk hebben we een redelijk resultaat.
 ## Slot
