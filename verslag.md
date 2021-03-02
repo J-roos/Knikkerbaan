@@ -34,7 +34,7 @@ Wij hebben een Whatsapp groepsapp aangemaakt en hebben daar heel het project lan
 
 ## Reflectie
 #### Jurian
-Ik vond...
+Ik vond het project stroef verlopen. We kwamen aan het begin met goede ideeën, maar door toetweek 2 en PWS kwam het project stil te liggen. Het brainstormen ging dus goed, maar het uitvoeren van de ideeën begon pas laat. Door de tweede lockdown konden we elkaar ook weinig zien en dit had een negatieve invloed op de samenwerking en het project. Ook was de communicatie binnen de groep niet ideaal, omdat er niet altijd op berichten gereageerd werd. Het project had beter kunnen verlopen en een beter resultaat had behaald kunnen worden, maar de omstandigheden zaten dus niet mee.
 
 #### Lucas
 Ik kijk terug op...
