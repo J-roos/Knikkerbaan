@@ -48,5 +48,5 @@ Ik kijk terug op...
 #### Timo
 
 #### Rico
-
+Achteraf gezien ging niet alles zoals gehoopt. Een iets betere planning zou wel geholpen hebben.
 ## Slot
