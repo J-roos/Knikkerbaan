@@ -29,7 +29,7 @@ Onze opdracht is als volgt gepland:
 
 ## Technische verantwoording
 Ons communicatieprotocol werkt zo:
-Wij hebben een Whatsapp groepsapp aangemaakt en hebben daar heel het project lang gebruik van gemaakt.
+Wij hebben een Whatsapp groepsapp aangemaakt en hebben daar gedurende het hele project gebruik van gemaakt.
 
 
 ## Reflectie
@@ -43,7 +43,9 @@ Ik kijk terug op...
 
 #### Jayden
 Deze praktische opdracht ging zeker niet volgens verwachtingen, en dit kwam waarschijnlijk ook vooral door de tweede lockdown die ervoor zorgden dat wij niet vaak samen konden komen. Mede hierdoor vond ik de communicatie binnen de groep ook niet bepaald aanwezig was op sommige plekken. Vanwege dit is het ons uiteindelijk ook niet gelukt om een echte verbinding te creëren tussen 2 van de 3 onderdelen. Realistisch gezien hebben waarschijnlijk ook maar weinig groepjes meer dan wij of het project überhaupt afhebben, maar uiteindelijk is dit resultaat wel minder dan ik me had voorgesteld.
+
 #### Dennis
+Het concept was enigszins ambitieus maar zeker haalbaar met een goede planning en inzet. Helaas is de uitkomst niet exact waar we op gehoopt hadden, dit kwam mede door de wat moeizame communicatie onder ons. Elkaar op school zien blijkt daarin toch belangrijker te zijn dan voorheen gedacht. Desondanks is het resultaat niet dramatisch en heb ik persoonlijk veel geleerd over hoe ik in de toekomst kan werken met het platform github.
 
 #### Timo
 
