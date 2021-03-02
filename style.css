@@ -1,0 +1,42 @@
+body {
+    background: black;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 800px;
+
+}
+
+.box {
+    background: black;
+    border: 2px solid white;
+    border-radius: 5px;
+    display: grid;
+}
+
+.a {
+    font-size: 40px;
+    grid-row: 1 / span 2;
+    font-family: monospace;
+    color: white;
+}
+
+.b {
+    font-size: 20px;
+    grid-row: 1 / span 2;
+    font-family: monospace;
+    color: white;
+}
+
+.c {
+    font-size: 20px;
+    grid-row: 1 / span 2;
+    font-family: monospace;
+    color: white;
+}
+
+img {
+    border-radius: 4px;
+    display: block;
+    margin: 1.3em auto;
+    max-width: 95%;
+}
