@@ -48,6 +48,6 @@ Deze praktische opdracht ging zeker niet volgens verwachtingen, en dit kwam waar
 #### Timo
 
 #### Rico
-Achteraf gezien ging niet alles zoals gehoopt. Een iets betere planning zou wel geholpen hebben.
+Achteraf gezien ging niet alles zoals gehoopt. Een iets betere planning zou wel geholpen hebben. Meer tijd voor de knikkerbaan zou ook geholpen hebben. Iets betere uitleg over welke dingen bij welk onderdeel moesten zijn tussen de voorwerpen zou ook geholpen hebben.
 ## Slot
 Door de 2e lockdown is het project een stuk lastiger om het project te maken
