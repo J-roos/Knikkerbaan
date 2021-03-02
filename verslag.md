@@ -1,5 +1,5 @@
 # Verslag eindopdracht 6V
-### gemaakt door --leerling1--, --leerling2--, etc
+### gemaakt door Jurian Roos, Lucas Lamping, Floris de Wolf, Jayden Wong, Dennis Kreukniet, Timo van der Valk en Rico 
 
 ---
 
@@ -33,12 +33,21 @@ Ons communicatieprotocol werkt zo:
 
 
 ## Reflectie
-#### --leerling1--
+#### Jurian 
 Ik vond...
 
-#### --leerling2--
+#### Lucas 
 Ik kijk terug op...
 
+#### Floris
+
+#### Jayden
+
+#### Dennis
+
+#### Timo
+
+#### Rico
 
 
 ## Slot
