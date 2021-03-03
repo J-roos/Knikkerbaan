@@ -19,7 +19,7 @@ Het middelste deel zou bestaan uit 12 blokjes die op en neer zouden kunnen gaan 
 #### Floris: Leiding, Knikkerbaan design, Verslag, Maken rolverdeling, Brainstormen over plannen.
 #### Jayden: Widget, Maken rolverdeling, Brainstormen over plannen en Knikkerbaan design.
 #### Dennis: Github, Maken rolverdeling, Brainstormen over plannen.
-#### Timo: Arduino.
+#### Timo: Arduino en Brainstormen over idee.
 #### Rico: Server.
 
 #### We hebben verder geen directe planning gemaakt.
