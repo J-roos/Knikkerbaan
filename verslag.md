@@ -16,7 +16,7 @@ Het middelste deel zou bestaan uit 12 blokjes die op en neer zouden kunnen gaan 
 ## Planning en daadwerkelijke uitvoering
 #### Jurian: Widget, Knikkerbaan design, Verslag, Maken rolverdeling, Brainstormen over plannen.
 #### Lucas: Knikkerbaan, Widget, Maken rolverdeling, Brainstormen over plannen.
-#### Floris: Leiding, Verslag, Maken rolverdeling, Brainstormen over plannen.
+#### Floris: Leiding, Knikkerbaan design, Verslag, Maken rolverdeling, Brainstormen over plannen.
 #### Jayden: Widget, Maken rolverdeling, Brainstormen over plannen en Knikkerbaan design.
 #### Dennis: Github, Maken rolverdeling, Brainstormen over plannen.
 #### Timo: Arduino.
