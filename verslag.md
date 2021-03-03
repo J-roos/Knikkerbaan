@@ -17,7 +17,7 @@ Het middelste deel zou bestaan uit 12 blokjes die op en neer zouden kunnen gaan 
 #### Jurian: Widget, Knikkerbaan design, Verslag.
 #### Lucas: Knikkerbaan, Widget.
 #### Floris: Leiding, Verslag.
-#### Jayden: Widget.
+#### Jayden: Widget, Maken rolverdeling, Brainstormen over plannen en Knikkerbaan design.
 #### Dennis: Github.
 #### Timo: Arduino.
 #### Rico: Server.
