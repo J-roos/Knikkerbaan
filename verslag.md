@@ -22,7 +22,7 @@ Het middelste deel zou bestaan uit 12 blokjes die op en neer zouden kunnen gaan 
 #### Timo: Arduino.
 #### Rico: Server.
 
-#### We hebben verder geen directe planning gemaakt.a
+#### We hebben verder geen directe planning gemaakt.
 
 
 ## Technische verantwoording
