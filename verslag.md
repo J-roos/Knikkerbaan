@@ -14,15 +14,15 @@ Het middelste deel zou bestaan uit 12 blokjes die op en neer zouden kunnen gaan 
 
 
 ## Planning en daadwerkelijke uitvoering
-Jurian: Widget, Knikkerbaan design, Verslag.
-Lucas: Knikkerbaan, Widget.
-Floris: Leiding, Verslag.
-Jayden: Widget.
-Dennis: Github.
-Timo: Arduino.
-Rico: Server.
+#### Jurian: Widget, Knikkerbaan design, Verslag.
+#### Lucas: Knikkerbaan, Widget.
+#### Floris: Leiding, Verslag.
+#### Jayden: Widget.
+#### Dennis: Github.
+#### Timo: Arduino.
+#### Rico: Server.
 
-We hebben verder geen directe planning gemaakt.a
+#### We hebben verder geen directe planning gemaakt.a
 
 
 ## Technische verantwoording
