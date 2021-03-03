@@ -36,7 +36,6 @@ body {
 
 img {
     border-radius: 4px;
-    display: block;
-    margin: 1.3em auto;
+    margin: 0 auto;
     max-width: 95%;
 }
